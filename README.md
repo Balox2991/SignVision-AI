@@ -116,7 +116,7 @@ Contiene:
 resolución de 32x32 píxeles
 🚀 Instalación local
 1. Clonar repositorio
-git clone https://github.com/TU_USUARIO/signvision-ai.git
+git clone [https://github.com/TU_USUARIO/signvision-ai.git](https://github.com/Balox2991/SignVision-AI.git)
 2. Entrar al proyecto
 cd signvision-ai
 3. Instalar dependencias
